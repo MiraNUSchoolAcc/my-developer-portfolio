@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300" role="img" aria-label="JM initials avatar">
+  <rect width="300" height="300" rx="150" fill="#1f3a5f"/>
+  <circle cx="150" cy="150" r="128" fill="none" stroke="#f2c14e" stroke-width="6"/>
+  <text x="150" y="172" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-weight="700" fill="#f7f4ee">JM</text>
+</svg>
